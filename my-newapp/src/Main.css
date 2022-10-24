@@ -1,0 +1,14 @@
+.introduction {
+  height: 525px;
+  width: 1430px;
+  background-color: rgb(133, 156, 133);
+}
+.introduction > h1 {
+    display: flex;
+    
+  font-size: 25px;
+  margin: auto;
+  padding-left: 9rem;
+  padding-top: 2rem;
+}
+.introduction>p{font-size: 20px;}

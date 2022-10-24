@@ -1,0 +1,22 @@
+.demo {
+    display: flex;
+  height: 60px;
+  width: 1430px;
+  background-color: blue;
+
+  
+}
+.demo > a {
+    display: flex;
+  padding: 25px;
+  margin-left: 75px;
+  list-style: none;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding-bottom:5px
+}
+.demo > a:hover {
+  background-color: rgb(92, 143, 58);
+}
